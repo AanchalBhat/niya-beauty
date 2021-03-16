@@ -1,0 +1,35 @@
+.niya-ambassador {
+  background-color: #FFF8F2;
+  border-radius: 12px;
+  height: 95vh;
+  overflow-x: hidden;
+}
+
+.filter-search button {
+  margin-left: 5px;
+}
+
+.back {
+  background-color: transparent;
+  color: #975E4A;
+  font-size: 14px;
+  margin-right: 10px;
+  padding: 0px;
+}
+
+.codes .select i {
+  right: 25px;
+  top: 37px;
+}
+
+.codes select {
+  padding: 0px 5px !important;
+}
+
+.codes label {
+  color: #000;
+}
+
+.codes .form-group {
+  width: 200px;
+}

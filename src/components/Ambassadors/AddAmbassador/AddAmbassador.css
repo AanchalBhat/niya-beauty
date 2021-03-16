@@ -1,0 +1,172 @@
+.niyaambassador-add .form-control {
+    font-size: 13px;
+    border: 1px solid #F5EEE7;
+    border-radius: 4px;
+    box-shadow: none !important;
+    padding-left: 10px;
+    background-color: #FFF8F2;
+}
+
+.niyaambassador-add p {
+    font-size: 12px;
+    margin-bottom: 0px;
+}
+
+.niyaambassador-add ::placeholder {
+    color: #b1b1b1 !important;
+}
+
+.niyaambassador-add .flex-content {
+    display: flex;
+    align-items: center;
+}
+
+.niyaambassador-add .head-bar {
+    padding: 17px 20px;
+    padding-bottom: 0px;
+}
+
+.niyaambassador-add {
+    background-color: #FFF8F2;
+    border-radius: 12px;
+    height: 97vh;
+    overflow: hidden;
+}
+
+.niyaambassador-add .card-color .dollar i {
+    position: absolute;
+    left: 6px;
+    top: 10px;
+    font-size: 18px;
+    color: #252627;
+    z-index: 5;
+}
+
+.niyaambassador-add .form-group {
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+
+
+.niyaambassador-add label {
+    font-size: 12px;
+    color: #000;
+    margin-bottom: 5px;
+}
+
+
+.niyaambassador-add .card-style {
+    background-color: #fff;
+    box-shadow: 0 15px 25px 0 rgba(0, 0, 0, 0.06);
+    border-radius: 15px;
+    height: auto;
+}
+
+.niyaambassador-add .row {
+    margin: 0px;
+}
+
+
+.niyaambassador-add .flex-content-scroll {
+    display: flex;
+    overflow-x: scroll;
+}
+
+.niyaambassador-add .card-head h6 {
+    font-weight: 600;
+}
+
+.niyaambassador-add .card-head {
+    border-bottom: 1px solid #F5EEE7;
+    padding: 15px;
+}
+
+
+.niyaambassador-add .cards-scroll {
+    height: 84vh;
+    overflow-y: scroll;
+    margin-bottom: 20px;
+}
+
+.niyaambassador-add .back {
+    background-color: transparent;
+    color: #975E4A;
+    font-size: 14px;
+    margin-right: 10px;
+}
+
+.niyaambassador-add .card-details-form {
+    width: 600px;
+
+}
+
+.niyaambassador-add .selected {
+    border-bottom: 1px solid #F5EEE7;
+}
+
+.niyaambassador-add select {
+    appearance: none;
+}
+
+.niyaambassador-add .icon-set-input i {
+    position: absolute;
+    top: 37px;
+    left: 7px;
+    color: #975E4A;
+    padding-right: 8px;
+}
+
+.niyaambassador-add .radio {
+    font-size: 12px;
+    font-weight: 500;
+    position: absolute;
+    bottom: -20px;
+}
+
+.niyaambassador-add .select i {
+    position: absolute;
+    right: 10px;
+    top: 38px;
+    font-size: 18px;
+    color: #975E4A;
+}
+
+.niyaambassador-add select {
+    appearance: none;
+}
+
+.niyaambassador-add .code-select .form-control {
+    padding: 0px;
+    width: 80px;
+    position: relative;
+    margin-right: 9px;
+    margin-top: 8px;
+}
+
+.niyaambassador-add .code-select i {
+    top: 19px;
+    z-index: 8;
+    right: 15px;
+}
+
+.niyaambassador-add .phone-no-label {
+    position: absolute;
+    top: 5px;
+}
+
+.form-group .err-message {
+    position: absolute;
+    bottom: -20px;
+    left: 0px;
+    font-size: 10px;
+    color: #B22222
+}
+
+.form-group .err-email {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    font-size: 10px;
+    color: #B22222
+}

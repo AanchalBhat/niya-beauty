@@ -1,0 +1,136 @@
+.certificates .form-control {
+    font-size: 19px;
+    border: 1px solid #F5EEE7;
+    border-radius: 4px;
+    box-shadow: none !important;
+    padding-left: 22px;
+}
+
+.certificates p {
+    font-size: 12px;
+    margin-bottom: 0px;
+}
+
+.certificates ::placeholder {
+    color: #000 !important;
+}
+
+.certificates .flex-content {
+    display: flex;
+    align-items: center;
+}
+
+.certificates .head-bar {
+    padding: 17px 20px;
+    padding-bottom: 0px;
+}
+
+.certificates {
+    background-color: #FFF8F2;
+    border-radius: 12px;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.certificates .card-color .dollar i {
+    position: absolute;
+    left: 6px;
+    top: 10px;
+    font-size: 18px;
+    color: #252627;
+    z-index: 5;
+}
+
+.certificates .form-group {
+    margin-bottom: 0px;
+}
+
+.certificates .theme-button {
+    background-color: #975E4A;
+    color: #fff;
+    font-size: 13px;
+    padding: 7px 24px;
+}
+
+.certificates label {
+    font-size: 12px;
+    color: #BABABA;
+    margin-bottom: 5px;
+}
+
+
+.certificates .card-style {
+    background-color: #fff;
+    box-shadow: 0 15px 25px 0 rgba(0, 0, 0, 0.06);
+    border-radius: 15px;
+    height: auto;
+}
+
+.certificates .row {
+    margin: 0px;
+}
+
+
+.certificates .flex-content-scroll {
+    display: flex;
+    overflow-x: scroll;
+}
+
+.certificates .card-head h6 {
+    font-weight: 600;
+}
+
+.certificates .card-head {
+    border-bottom: 1px solid #F5EEE7;
+    padding: 15px;
+}
+
+
+.certificates .card-color {
+    background-color: #FFF8F2;
+    border-radius: 12px;
+    padding: 12px;
+}
+
+.certificates .gift-card h5 {
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.certificates .gift-card h6 {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.certificates .gift-package {
+    margin: 25px 0px;
+}
+
+
+.certificates .cards-scroll {
+    height: 85vh;
+    overflow-y: scroll;
+    margin-bottom: 20px;
+}
+
+.certificates .right-action-buttons .form-control {
+    border: 1px solid #F5EEE7;
+    font-size: 13px;
+}
+
+.certificates .document img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.certificates .document {
+    background-color: #FFF8F2;
+    padding: 12px 14.8px 12.3px 15px;
+    border-radius: 15px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    width: 100%;
+    height: 350px;
+    justify-content: center;
+    margin-top: 10px;
+}

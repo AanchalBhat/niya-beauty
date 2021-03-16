@@ -1,0 +1,191 @@
+*{
+    margin:0;
+    padding:0;
+  }
+  body{
+    background-color:#F5EEE7;
+    font-family: 'Open Sans', sans-serif;
+    
+  }
+  .form-control {
+      font-size: 13px;
+      border-radius: 4px !important;
+  }
+  p{
+    font-size: 13px;
+    margin-bottom:0px;
+  }
+  ::placeholder{
+    color:#000 !important;
+  }
+  .flex-content{
+    display: flex;
+    align-items: center;
+  }
+
+  .user-management{
+    background-color:#FFF8F2;
+    border-radius: 12px;
+    height:95vh;
+    overflow-x:hidden;
+  }
+  .head-bar{
+    background-color:#fff;
+    padding:15px;
+  }
+  .form-control{
+    border:1px solid #F5EEE7;
+    border-radius: 4px;
+    box-shadow: none !important;
+  }
+  select {
+    appearance:none;
+    padding-right: 25px !important;
+    padding-left:10px !important
+  }
+  .select i {
+    position: absolute;
+    right: 6px;
+    top: 13px;
+    font-size: 12px;
+    color: #975E4A;
+}
+.input-group i{
+  position: absolute;
+    left: 6px;
+    top: 13px;
+    font-size: 12px;
+    color: #975E4A;
+    z-index: 5;
+}
+.form-group{
+  margin-bottom:0px;
+}
+.theme-button{
+  background-color:#975E4A;
+  color:#fff;
+  font-size: 13px;
+  padding:7px 24px;
+}
+.filters {
+  background-color: #fff;
+  border-top:1px solid #F5EEE7;
+  padding:5px 0px;
+}
+.filters .form-control {
+  height: 30px;
+  border:1px solid #F5EEE7;
+}
+.filters .flex-content{
+  flex-wrap: wrap;
+}
+.filters label{
+  font-size: 12px;
+  color:#BABABA;
+  margin-bottom:5px;
+}
+.filters .form-group {
+   width: 15%;
+  padding: 1px 15px;
+}
+.icon-set-input i {
+position: absolute;
+top: 35px;
+left: 21px;
+color:#975E4A;
+border-right:1px solid #F5EEE7;
+padding-right:8px;
+}
+.icon-set-input input{
+padding-left:32px;
+}
+.filters .select i{
+right: 25px;
+top: 37px;
+}
+
+.filters select{
+padding: 0px 5px !important;
+}
+
+.data-table{
+padding:20px 15px;
+font-size: 12px;
+}
+.data-table .table thead th , .data-table .table td {
+border:0px;
+font-weight: normal;
+border-right: 1px solid #F5EEE7;
+}
+.data-table .table thead th i{
+font-size: 10px;
+color: #975E4A;
+}
+.table-striped tbody tr:nth-of-type(2n+1) {
+background-color: #fff;
+}
+.data-table .table td{
+word-break: break-word !important;
+vertical-align: middle !important;
+padding:5px 10px;
+}
+.span-text {
+font-size: 9px;
+}
+
+.dropdown:hover>.dropdown-menu {
+display: block;
+}
+.action .dropdown-menu{
+top:20px;
+border:none;
+border-radius: 8px;
+box-shadow: 0 0 20px 0 rgba(0,0,0,.13);
+font-size: 12px;
+}
+
+.dropdown>.dropdown-toggle:active {
+/*Without this, clicking will make it sticky*/
+pointer-events: none;
+}
+.action .btn{
+padding:3px;
+background-color:transparent;
+border:none;
+}
+.action .dropdown .btn {
+color:#975E4A;
+margin-left: 8px;
+}
+
+.action .dropdown-toggle::after {
+display: none;
+}
+
+.action .dropdown-menu i{
+color:#d2d2d7;
+margin-right:8px;
+}
+.action .dropdown-item {
+padding: 12px 8px;
+}
+.pagination{
+justify-content: center;
+font-size: 13px;
+
+}
+.pagination li{
+box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.09);
+}
+.pagination a{
+color:#000;
+}
+.pagination .page-item.active .page-link {
+z-index: 1;
+color: #fff;
+background-color: #975E4A;
+border-color: #975E4A;
+}
+#previous-page a, #next-page a{
+color:#BABABA;
+}

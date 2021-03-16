@@ -1,0 +1,83 @@
+.artist-management {
+    background-color: #FFF8F2;
+    border-radius: 12px;
+    height: 95vh;
+    overflow-x: hidden;
+}
+
+.artist-management .form-control {
+    height: 30px;
+    border: 1px solid #F5EEE7;
+}
+
+.artist-management .data-table .table thead th i {
+    font-size: 10px;
+    color: #975E4A;
+}
+
+.artist-management .table-striped tbody tr:nth-of-type(2n+1) {
+    background-color: #FFF8F2;
+}
+
+.red-card {
+    padding: 15px 16.3px 220px 22px;
+    border-radius: 15px;
+    box-shadow: 0 15px 25px 0 rgba(0, 0, 0, 0.06);
+    background-image: linear-gradient(to bottom, #e24e4e, #9f2323);
+    color: #fff;
+    position: relative;
+}
+
+.red-card .btn {
+    background-color: transparent;
+    color: #fff;
+    padding: 0px;
+
+}
+
+.red-card img {
+    position: absolute;
+    bottom: 0px;
+    right: 0;
+}
+
+.earnings {
+    height: auto !important;
+    border-radius: 15px;
+    box-shadow: 0 15px 25px 0 rgba(0, 0, 0, 0.06);
+    background-image: linear-gradient(to bottom, #fdb7bf, #f5929f);
+}
+
+.transparent-bg{
+    background-color: transparent;
+}
+
+.profile-image img {
+    object-fit: cover;
+}
+
+.artist-management {
+    height: 82vh !important;
+}
+
+.doc img {
+    width: 165px;
+    height: 165px;
+    border-radius: 15px;
+    margin-right: 10px;
+}
+
+.doc {
+    padding: 12px;
+}
+
+
+.earnings-head {
+    display: flex !important;
+    justify-content: space-between;
+}
+
+.graph {
+    width: 50%;
+    margin: 0 auto;
+}

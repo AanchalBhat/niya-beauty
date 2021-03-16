@@ -1,0 +1,187 @@
+.earnings-parent .form-control {
+    font-size: 13px;
+    border: 1px solid #F5EEE7;
+    border-radius: 4px;
+    box-shadow: none !important;
+    padding-left: 22px;
+}
+
+.earnings-parent p {
+    font-size: 12px;
+    margin-bottom: 0px;
+}
+
+
+.earnings-parent .flex-content {
+    display: flex;
+    align-items: center;
+}
+
+.earnings-parent .head-bar {
+    padding: 17px 20px;
+    padding-bottom: 0px;
+}
+
+.earnings-parent {
+    background-color: #FFF8F2;
+    border-radius: 12px;
+    height: 100vh;
+    overflow: hidden;
+}
+
+
+.earnings-parent .form-group {
+    margin-bottom: 0px;
+}
+
+.earnings-parent .theme-button {
+    background-color: #975E4A;
+    color: #fff;
+    font-size: 13px;
+    padding: 7px 24px;
+}
+
+.earnings-parent label {
+    font-size: 12px;
+    color: #BABABA;
+    margin-bottom: 5px;
+}
+
+
+.earnings-parent .card-style {
+    background-color: #fff;
+    box-shadow: 0 15px 25px 0 rgba(0, 0, 0, 0.06);
+    border-radius: 15px;
+    height: auto;
+}
+
+.earnings-parent .row {
+    margin: 0px;
+}
+
+
+.earnings-parent .flex-content-scroll {
+    display: flex;
+    overflow-x: scroll;
+}
+
+.earnings-parent .card-head h6 {
+    font-weight: 600;
+}
+
+.earnings-parent .card-head {
+    border-bottom: 1px solid #F5EEE7;
+    padding: 15px;
+}
+
+.earnings-parent .card-border {
+    border-right: 1px solid #F5EEE7;
+}
+
+
+.earnings-parent li {
+    list-style: none;
+    border-bottom: 1px solid #F5EEE7;
+    padding: 10px 0px;
+}
+
+.earnings-parent ul {
+    height: 200px;
+    overflow-y: scroll;
+    margin-bottom: 0px;
+}
+
+.earnings-parent .unselected {
+    color: #A7A4A0;
+}
+
+.earnings-parent .save-button .btn {
+    width: 100%;
+    margin-top: 10px;
+}
+
+.earnings-parent .cards-scroll {
+    height: auto;
+    margin-bottom: 20px;
+}
+
+
+.earnings-parent select {
+    appearance: none;
+    padding-right: 25px !important;
+    padding-left: 10px !important
+}
+
+.earnings-parent .select i {
+    position: absolute;
+    right: 6px;
+    top: 13px;
+    font-size: 12px;
+    color: #975E4A !important;
+}
+
+.earnings-parent .card-color {
+    background-color: #FFF8F2;
+    border-radius: 8px;
+    height: 400px;
+    padding: 20px;
+    padding: 20px;
+    margin: 30px 0px;
+}
+
+.earnings-parent .border-right {
+    border-right: 1px solid #F5EEE7;
+}
+
+/* table */
+.earnings-parent .scroll-table {
+    height: 300px;
+    overflow-y: scroll;
+}
+
+.earnings-parent .scroll-table {
+    padding: 0px;
+    font-size: 12px;
+}
+
+.earnings-parent .scroll-table .table thead th,
+.earnings-parent .scroll-table .table td {
+    border: 0px;
+    font-weight: normal;
+    border-right: 1px solid #F5EEE7;
+}
+
+.scroll-table .table thead th i {
+    font-size: 10px;
+    color: #975E4A;
+}
+
+.earnings-parent .table-striped tbody tr:nth-of-type(2n+1) {
+    background-color: #fff;
+}
+
+.earnings-parent .scroll-table .table td {
+    word-break: break-word !important;
+    vertical-align: middle !important;
+    padding: 5px 10px;
+}
+
+.earnings-parent .scroll-table select {
+    height: 28px;
+}
+
+.earnings-parent .scroll-table .select i {
+    top: 9px;
+}
+
+.filter-buttons button{
+margin-left: 8px;
+}
+
+.form-group .err-filter {
+    position: absolute;
+    bottom: -30px;
+    
+    font-size: 10px;
+    color: #B22222
+}

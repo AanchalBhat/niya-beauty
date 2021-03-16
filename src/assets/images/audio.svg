@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500.25" height="500" viewBox="0 0 500.25 500">
+  <g id="Group_10882" data-name="Group 10882" transform="translate(14560 -7456)">
+    <g id="placeholder-pic" transform="translate(-14559.5 7455)">
+      <path id="Path_8139" data-name="Path 8139" d="M-.5,1H499.75V501H-.5Z" fill="#fff8f2"/>
+    </g>
+    <g id="headphones" transform="translate(-14397 7598)">
+      <g id="Group_10876" data-name="Group 10876" transform="translate(0 31)">
+        <g id="Group_10875" data-name="Group 10875">
+          <path id="Path_8143" data-name="Path 8143" d="M87.609,31C39.489,31,0,70.147,0,118.267v41.067a15.417,15.417,0,0,0,15.4,15.4h5.133V123.4H15.4a15.221,15.221,0,0,0-5.133.946v-6.079c0-42.46,34.882-77,77.342-77s77.342,34.54,77.342,77v6.079a15.221,15.221,0,0,0-5.133-.946h-5.133v51.333h5.133a15.417,15.417,0,0,0,15.4-15.4V118.267C175.218,70.147,135.729,31,87.609,31Z" transform="translate(0 -31)" fill="#975e4a"/>
+        </g>
+      </g>
+      <g id="Group_10878" data-name="Group 10878" transform="translate(30.8 113.133)">
+        <g id="Group_10877" data-name="Group 10877">
+          <path id="Path_8144" data-name="Path 8144" d="M105.4,271h-5.133A10.266,10.266,0,0,0,90,281.267V332.6a10.266,10.266,0,0,0,10.267,10.267H105.4a5.133,5.133,0,0,0,5.133-5.133v-61.6A5.133,5.133,0,0,0,105.4,271Z" transform="translate(-90 -271)" fill="#975e4a"/>
+        </g>
+      </g>
+      <g id="Group_10880" data-name="Group 10880" transform="translate(123.884 113.133)">
+        <g id="Group_10879" data-name="Group 10879">
+          <path id="Path_8145" data-name="Path 8145" d="M372.267,271h-5.133A5.133,5.133,0,0,0,362,276.133v61.6a5.133,5.133,0,0,0,5.133,5.133h5.133A10.266,10.266,0,0,0,382.533,332.6V281.267A10.266,10.266,0,0,0,372.267,271Z" transform="translate(-362 -271)" fill="#975e4a"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

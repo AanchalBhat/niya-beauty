@@ -1,0 +1,174 @@
+.appointment-booking-details p {
+    font-size: 12px;
+    margin-bottom: 0px;
+}
+
+.appointment-booking-details ::placeholder {
+    color: #000 !important;
+}
+
+.appointment-booking-details .flex-content {
+    display: flex;
+    align-items: center;
+}
+
+
+.appointment-booking-details .appointment-booking-details {
+    background-color: #FFF8F2;
+    border-radius: 12px;
+    height: 100vh;
+    overflow: hidden;
+}
+
+
+.appointment-booking-details .theme-button {
+    background-color: #975E4A;
+    color: #fff;
+    font-size: 13px;
+    padding: 7px 24px;
+}
+
+.appointment-booking-details label {
+    font-size: 11px;
+    color: #b1b1b1;
+    margin-bottom: 5px;
+}
+
+.appointment-booking-details .card-style {
+    background-color: #fff;
+    box-shadow: 0 15px 25px 0 rgba(0, 0, 0, 0.06);
+    border-radius: 15px;
+    height: auto;
+}
+
+.appointment-booking-details .row {
+    margin: 0px;
+}
+
+
+.appointment-booking-details .flex-content-scroll {
+    display: flex;
+    overflow-x: scroll;
+}
+
+.appointment-booking-details .card-head h6 {
+    font-weight: 600;
+}
+
+.appointment-booking-details .card-head {
+    border-bottom: 1px solid #F5EEE7;
+    padding: 15px;
+}
+
+
+.appointment-booking-details .cards-scroll {
+    height: 85vh;
+    overflow-y: scroll;
+    margin-bottom: 20px;
+}
+
+.appointment-booking-details .back {
+    background-color: transparent;
+    color: #975E4A;
+    font-size: 14px;
+    margin-right: 10px;
+}
+
+
+.appointment-booking-details .selected {
+    border-bottom: 1px solid #F5EEE7;
+}
+
+.appointment-booking-details .head-bar {
+    padding: 17px 20px;
+    padding-bottom: 0px;
+}
+
+.appointment-booking-details .details-card {
+    background-color: #fff8f2;
+    padding: 15px 16px;
+    border-radius: 16px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    height: 250px;
+}
+
+.appointment-booking-details .verify-ic img {
+    width: 14px;
+}
+
+.appointment-booking-details .details-card .group {
+    margin-top: 12px;
+}
+
+.appointment-booking-details .w-50 {
+    width: 50%;
+}
+
+.appointment-booking-details .details-card h6 {
+    font-weight: 600;
+}
+
+.appointment-booking-details .unselected {
+    color: #A7A4A0;
+}
+
+.appointment-booking-details li {
+    list-style: none;
+    border-bottom: 1px solid #F5EEE7;
+    padding: 10px 0px;
+}
+
+.appointment-booking-details .services ul {
+    height: 64px;
+    overflow-y: scroll;
+}
+
+.appointment-booking-details .stars i {
+    color: #FFDC64;
+    font-size: 12px;
+    margin-right: 4px;
+}
+
+.appointment-booking-details .tags span {
+    background-color: #975E4A;
+    color: #fff;
+    font-size: 8px;
+    border-radius: 32px;
+    padding: 4px 6px;
+}
+
+/* New Addition */
+.appointment-booking-details .details-card {
+    overflow: hidden;
+}
+
+.cards-scroll {
+    height: 85vh;
+    overflow-y: scroll;
+    margin-bottom: 20px;
+}
+
+.appointment-booking-details .cards-scroll {
+    height: 78vh;
+}
+
+/* .appointment-booking-details .details-card .group {
+    margin-top: 12px;
+    word-break: break-word;
+    height: 47px;
+} */
+
+.appointment-booking-details .feedback-text {
+    margin-bottom: 8px;
+    margin-right: 5px;
+}
+
+.appointment-booking-details .details-card .group {
+    margin-top: 9px;
+    word-wrap: break-word;
+    height: auto;
+}
+
+.appointment-booking-details .ml-8 {
+    margin-left: 8px !important;
+}

@@ -1,0 +1,261 @@
+.customer-profile-na .form-control {
+    font-size: 13px;
+    border-radius: 4px !important;
+}
+
+.customer-profile-na p {
+    font-size: 13px;
+    margin-bottom: 0px;
+}
+
+.customer-profile-na ::placeholder {
+    color: #000 !important;
+}
+
+.customer-profile-na .flex-content {
+    display: flex;
+    align-items: center;
+}
+
+.customer-profile-na .user-management {
+    background-color: #FFF8F2;
+    border-radius: 12px;
+    height: 95vh;
+    overflow-x: hidden;
+}
+
+.customer-profile-na .form-control {
+    border: 1px solid #F5EEE7;
+    border-radius: 4px;
+    box-shadow: none !important;
+}
+
+.customer-profile-na .input-group i {
+    position: absolute;
+    left: 6px;
+    top: 13px;
+    font-size: 12px;
+    color: #975E4A;
+    z-index: 5;
+}
+
+.customer-profile-na .form-group {
+    margin-bottom: 0px;
+}
+
+.customer-profile-na .theme-button {
+    background-color: #975E4A;
+    color: #fff;
+    font-size: 13px;
+    padding: 7px 24px;
+}
+
+.customer-profile-na .personal-info .form-control {
+    height: 30px;
+    border: 1px solid #F5EEE7;
+}
+
+.customer-profile-na .personal-info .flex-content {
+    flex-wrap: wrap;
+}
+
+.customer-profile-na .personal-info label {
+    font-size: 12px;
+    color: #BABABA;
+    margin-bottom: 5px;
+}
+
+.customer-profile-na .icon-set-input i {
+    position: absolute;
+    top: 35px;
+    left: 21px;
+    color: #975E4A;
+    border-right: 1px solid #F5EEE7;
+    padding-right: 8px;
+}
+
+.customer-profile-na .icon-set-input input {
+    padding-left: 32px;
+}
+
+
+.customer-profile-na .data-table {
+    padding: 0px;
+    font-size: 12px;
+}
+
+.customer-profile-na .data-table .table thead th,
+.customer-profile-na .data-table .table td {
+    border: 0px;
+    font-weight: normal;
+    border-right: 1px solid #F5EEE7;
+}
+
+.customer-profile-na .data-table .table thead th i {
+    font-size: 10px;
+    color: #975E4A;
+}
+
+.customer-profile-na .table-striped tbody tr:nth-of-type(2n+1) {
+    background-color: #FFF8F2;
+}
+
+.customer-profile-na .data-table .table td {
+    word-break: break-word !important;
+    vertical-align: middle !important;
+    padding: 5px 10px;
+}
+
+.customer-profile-na .card-style {
+    background-color: #fff;
+    box-shadow: 0 15px 25px 0 rgba(0, 0, 0, 0.06);
+    border-radius: 15px;
+    overflow: hidden;
+    height: 216px;
+}
+
+.customer-profile-na .table-head h6 {
+    font-weight: 600;
+}
+
+.customer-profile-na .table-head {
+    border-bottom: 1px solid #F5EEE7 !important;
+    padding: 15px !important;
+}
+
+.customer-profile-na .row {
+    margin: 0px;
+}
+
+.customer-profile-na .action .btn {
+    padding: 0px;
+    background-color: transparent;
+    font-size: 12px;
+    margin-right: 10px;
+}
+
+.customer-profile-na .scroll-table {
+    height: 200px;
+    overflow-y: scroll;
+}
+
+.customer-profile-na .theme-card img {
+    position: absolute;
+    bottom: 0px;
+    right: 0;
+}
+
+.customer-profile-na .center-portion {
+    padding: 18px 0px;
+}
+
+.customer-profile-na .end-portion {
+    padding-bottom: 16px;
+}
+
+.customer-profile-na .center-portion h2 {
+    font-size: 50px;
+}
+
+.customer-profile-na .profile-image img {
+    width: 125px;
+    height: 125px;
+    border-radius: 6px;
+}
+
+.customer-profile-na .profile-image h6 {
+    font-weight: 600;
+}
+
+.customer-profile-na .personal-info .btn {
+    padding: 0px;
+    color: #FF0707;
+    background-color: transparent;
+    font-size: 12px;
+}
+
+.customer-profile-na .profile-image {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    bottom: 10px;
+    border-right: 1px solid #F5EEE7;
+    padding-right: 16px;
+}
+
+.customer-profile-na .info-inputs {
+    padding-left: 152px;
+}
+
+.customer-profile-na .personal-info .form-group {
+    width: 50%;
+    padding: 0px 13px;
+}
+
+.customer-profile-na .verify-ic img {
+    width: 14px;
+}
+
+.customer-profile-na .flex-content-scroll {
+    display: flex;
+    overflow-x: scroll;
+}
+
+.customer-profile-na .flex-content-scroll li {
+    list-style: none;
+}
+
+.customer-profile-na .question-cards {
+    padding: 12px;
+}
+
+.customer-profile-na .question-cards .card {
+    background-color: #FFF8F2;
+    color: #000;
+    border-radius: 15px;
+    border: none;
+    padding: 15px;
+    width: 165px;
+    height: 165px;
+    margin-right: 20px;
+    position: relative;
+}
+
+.customer-profile-na .question-cards .card h5 {
+    font-weight: 600;
+}
+
+.customer-profile-na .question-cards .card h6 {
+    font-size: 14px !important;
+    width: 93%;
+    font-weight: 600;
+    padding: 15px 0px;
+}
+
+.customer-profile-na .question-cards .card .end-portion {
+    padding-bottom: 0px;
+    position: absolute;
+    bottom: 7px;
+    width: 85%;
+}
+
+.customer-profile-na .beauty-data {
+    height: auto;
+}
+
+.customer-profile-na .edit-card {
+    border-radius: 8px;
+    box-shadow: 0 6px 12px 0 rgba(151, 94, 74, 0.49);
+    background-color: #975e4a;
+    color: #fff;
+    width: 29px;
+    height: 29px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+}
+
+.customer-profile-na {
+    height: 82vh !important;
+}

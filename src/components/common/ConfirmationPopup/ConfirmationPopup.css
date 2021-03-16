@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #F5EEE7;
+    font-family: 'Open Sans', sans-serif;
+    color: #252627;
+
+}
+
+.flex-content {
+    display: flex;
+    align-items: center;
+}
+
+
+.gift-cards .form-group {
+    margin-bottom: 0px;
+}
+
+.theme-button {
+    background-color: #975E4A;
+    color: #fff;
+    font-size: 13px;
+    padding: 7px 24px;
+    width : auto !important
+}
+
+.modal-title {
+    font-size: 20px;
+}
+
+
+
+/* modal-add card */
+
+#confirmation-modal .modal-content {
+    width: 63%;
+    margin: 0 auto;
+}
+
+#example-modal-sizes-title-lg {
+    text-align: center;
+    width: 100%;
+}

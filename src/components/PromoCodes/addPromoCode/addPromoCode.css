@@ -1,0 +1,139 @@
+*{
+    margin:0;
+    padding:0;
+  }
+  body{
+    background-color:#F5EEE7;
+    font-family: 'Open Sans', sans-serif;
+    color:#252627;
+    
+  }
+
+  .promo-code-add .form-control{
+    font-size: 13px;
+    border:1px solid #F5EEE7;
+    border-radius: 4px;
+    box-shadow: none !important;
+    padding-left: 10px;
+    background-color:#FFF8F2;
+  }
+  p{
+    font-size: 12px;
+    margin-bottom:0px;
+  }
+  ::placeholder{
+    color:#b1b1b1 !important;
+  }
+  .flex-content{
+    display: flex;
+    align-items: center;
+  }
+  .head-bar {
+     padding: 17px 20px;
+     padding-bottom: 0px;
+  }
+
+  .promo-code-add{
+    background-color:#FFF8F2;
+    border-radius: 12px;
+    height:97vh;
+    overflow:hidden;
+  }
+
+  .promo-code-add .card-color .dollar i{
+  position: absolute;
+    left: 6px;
+    top: 10px;
+    font-size: 18px;
+    color: #252627;
+    z-index: 5;
+}
+.promo-code-add .form-group{
+  margin-bottom:20px;
+  width: 100%;
+}
+.theme-button{
+  background-color:#975E4A;
+  color:#fff;
+  font-size: 13px;
+  padding:7px 24px;
+}
+
+ label{
+  font-size: 12px;
+  color:#000;
+  margin-bottom:5px;
+}
+
+
+.card-style{
+  background-color:#fff;
+  box-shadow: 0 15px 25px 0 rgba(0, 0, 0, 0.06);
+  border-radius: 15px;
+  height:auto;
+}
+
+.row{
+  margin:0px;
+}
+
+
+.flex-content-scroll{
+display: flex;
+overflow-x:scroll;
+}
+.card-head h6{
+  font-weight: 600;
+}
+.card-head {
+border-bottom: 1px solid #F5EEE7;
+padding: 15px;
+}
+
+
+.cards-scroll {
+height: 84vh;
+overflow-y: scroll;
+margin-bottom: 20px;
+}
+
+.back{
+background-color:transparent;
+color:#975E4A;
+font-size: 14px;
+margin-right:10px;
+}
+.promo-code-add .card-details-form  {
+width: 600px;
+
+}
+
+.selected{
+border-bottom:1px solid #F5EEE7;
+}
+.select i {
+position: absolute;
+right: 10px;
+top: 38px;
+font-size: 18px;
+color: #975E4A;
+}
+select {
+appearance:none;
+}
+.icon-set-input i {
+position: absolute;
+top: 37px;
+left: 7px;
+color:#975E4A;
+padding-right:8px;
+}
+.promo-code-add textarea.form-control {
+height: 150px;
+}
+.radio{
+font-size: 12px;
+font-weight: 500;
+position:absolute;
+bottom:-20px;
+}

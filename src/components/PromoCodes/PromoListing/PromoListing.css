@@ -1,0 +1,47 @@
+.promo-codes {
+    background-color: #FFF8F2;
+    border-radius: 12px;
+    height: 95vh;
+    overflow-x: hidden;
+}
+
+.promo-codes .action .dropdown-menu {
+    top: 20px;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, .13);
+    font-size: 12px;
+    left: -100px;
+}
+
+
+
+.promo-codes .dropdown>.dropdown-toggle:active {
+    /*Without this, clicking will make it sticky*/
+    pointer-events: none;
+}
+
+.promo-codes .action .btn {
+    padding: 3px;
+    background-color: transparent;
+    border: none;
+}
+
+.promo-codes .action .dropdown .btn {
+    color: #975E4A;
+    margin-left: 8px;
+}
+
+.promo-codes .action .dropdown-toggle::after {
+    display: none;
+}
+
+.promo-codes .action .dropdown-menu i {
+    color: #d2d2d7;
+    margin-right: 8px;
+}
+
+.promo-codes .action .dropdown-item {
+    padding: 12px 8px;
+
+}
